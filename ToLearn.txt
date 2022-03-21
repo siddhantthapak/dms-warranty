@@ -1,0 +1,8 @@
+1. Method Reference
+2. Enum
+3. Regular expression
+4. PostConstruct
+5. EnumMap
+6. default and static
+7. ContollerAdvice is used to handle exception in Spring boot endpoints-->
+8. Reactive Programming-> webclient, Mono, Flux, block (when to block), handle exception
