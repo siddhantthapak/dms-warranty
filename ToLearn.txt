@@ -19,6 +19,7 @@
 2. what is SQL Injection?
 3. What is Prepared statement?
 4. Swagger.io --> open api spec--> very important
+5. swagger editor user garera spec haru create garne and edit garne-->
 5. Spring profiles
 6. VM arguments vs Environmental variable
 7. while executing the spring boot app, In what order the arguments are feed into the application
@@ -26,3 +27,5 @@
 9. Redis server
 10. data base connection-->
 11. 8, 9, 10, --> is assigment for you guys to implement in dms-warranty
+12. ClassNotFoundException vs ClassDefNotFoundError
+13. Class Loader-> ..........................
